@@ -1,4 +1,4 @@
-# DNS-ASA
+# DNS-ASA 
 È preciso entrar no arquivo _/etc/hosts_ e apagar os dados anteriormente inseridos.
 Atulizar os pacotes e instalar o bind9 que é um servidor DNS.
 ```
